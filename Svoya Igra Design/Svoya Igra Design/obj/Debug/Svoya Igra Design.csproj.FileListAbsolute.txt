@@ -16,3 +16,21 @@ C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaI
 C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.pdb
 C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.exe.config
 C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.CopyComplete
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe.config
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.pdb
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.exe
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.pdb
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.exe.config
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csprojAssemblyReference.cache
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\MainWindow.g.cs
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.g.cs
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.cache
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.lref
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\MainWindow.baml
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.g.resources
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya_Igra_Design.Properties.Resources.resources
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.GenerateResource.cache
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.CopyComplete
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.exe
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.pdb

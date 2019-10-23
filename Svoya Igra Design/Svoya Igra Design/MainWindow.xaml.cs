@@ -60,6 +60,7 @@ namespace Svoya_Igra_Design
                     Grid.SetRow(btns[i, j-1], i);
                     Grid.SetColumn(btns[i, j-1], j);
                     btns[i, j-1].Click += Button1_Click;
+                    //Андрей лох
                 }
             }
         }
