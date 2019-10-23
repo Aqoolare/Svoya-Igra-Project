@@ -27,34 +27,46 @@ namespace Svoya_Igra_Design
         }
 
         Button[,] btns = new Button[6, 6];
+        TextBox[] textBoxes = new TextBox[6];
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             questionsGrid.Children.Clear();
             questionsGrid.ColumnDefinitions.Clear();
             questionsGrid.RowDefinitions.Clear();
+
+            ColumnDefinition cd3 = new ColumnDefinition();
+            cd3.Width = new GridLength(130);
+            questionsGrid.ColumnDefinitions.Add(cd3);
+
             for (int i = 0; i < questionThemeSlider.Value; i++)
             {
                 RowDefinition cd2 = new RowDefinition();
-                cd2.Height = new GridLength(50);
+                cd2.Height = new GridLength(45);
                 questionsGrid.RowDefinitions.Add(cd2);
-                for (int j = 0; j < questionCostSlider.Value; j++)
+
+                textBoxes[i] = new TextBox { Text = "Название темы ;)" };
+                questionsGrid.Children.Add(textBoxes[i]);
+                Grid.SetRow(textBoxes[i], i);
+                Grid.SetColumn(textBoxes[i], 0);
+
+                for (int j = 1; j <= questionCostSlider.Value; j++)
                 {
                     ColumnDefinition cd1 = new ColumnDefinition();
-                    cd1.Width = new GridLength(130);
+                    cd1.Width = new GridLength(100);
                     questionsGrid.ColumnDefinitions.Add(cd1);
-                    btns[i, j] = new Button { Content = (j + 1) * 100 };
-                    questionsGrid.Children.Add(btns[i, j]);
-                    Grid.SetRow(btns[i, j], i);
-                    Grid.SetColumn(btns[i, j], j);
-                    btns[i, j].Click += Button1_Click;
+                    btns[i, j-1] = new Button { Content = j * 100 };
+                    questionsGrid.Children.Add(btns[i, j-1]);
+                    Grid.SetRow(btns[i, j-1], i);
+                    Grid.SetColumn(btns[i, j-1], j);
+                    btns[i, j-1].Click += Button1_Click;
                 }
             }
         }
 
         void Button1_Click(object sender, RoutedEventArgs e)
         {
-            int column = Grid.GetColumn(sender as Button);
+            int column = Grid.GetColumn(sender as Button) - 1;
             int row = Grid.GetRow(sender as Button);
             MessageBox.Show(column + " " + row);
         }

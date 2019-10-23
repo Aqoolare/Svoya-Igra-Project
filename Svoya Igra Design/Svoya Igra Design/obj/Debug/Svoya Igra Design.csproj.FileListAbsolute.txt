@@ -16,21 +16,3 @@ C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaI
 C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.pdb
 C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.exe.config
 C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.CopyComplete
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe.config
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.pdb
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.exe
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.pdb
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.exe.config
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csprojAssemblyReference.cache
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\MainWindow.g.cs
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.g.cs
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.cache
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.lref
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\MainWindow.baml
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.g.resources
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya_Igra_Design.Properties.Resources.resources
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.GenerateResource.cache
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.CopyComplete
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.exe
-C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.pdb

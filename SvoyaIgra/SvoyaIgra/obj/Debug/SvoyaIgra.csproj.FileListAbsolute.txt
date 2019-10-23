@@ -3,9 +3,4 @@ C:\Users\koska\source\repos\SvoyaIgra\SvoyaIgra\bin\Debug\SvoyaIgra.exe
 C:\Users\koska\source\repos\SvoyaIgra\SvoyaIgra\bin\Debug\SvoyaIgra.pdb
 C:\Users\koska\source\repos\SvoyaIgra\SvoyaIgra\obj\Debug\SvoyaIgra.exe
 C:\Users\koska\source\repos\SvoyaIgra\SvoyaIgra\obj\Debug\SvoyaIgra.pdb
-C:\Users\koska\Desktop\Svoya-Igra-Project\SvoyaIgra\SvoyaIgra\bin\Debug\SvoyaIgra.exe.config
-C:\Users\koska\Desktop\Svoya-Igra-Project\SvoyaIgra\SvoyaIgra\bin\Debug\SvoyaIgra.exe
-C:\Users\koska\Desktop\Svoya-Igra-Project\SvoyaIgra\SvoyaIgra\bin\Debug\SvoyaIgra.pdb
-C:\Users\koska\Desktop\Svoya-Igra-Project\SvoyaIgra\SvoyaIgra\obj\Debug\SvoyaIgra.exe
-C:\Users\koska\Desktop\Svoya-Igra-Project\SvoyaIgra\SvoyaIgra\obj\Debug\SvoyaIgra.pdb
-C:\Users\koska\Desktop\Svoya-Igra-Project\SvoyaIgra\SvoyaIgra\obj\Debug\SvoyaIgra.csprojAssemblyReference.cache
+C:\Users\koska\source\repos\SvoyaIgra\SvoyaIgra\obj\Debug\SvoyaIgra.csprojAssemblyReference.cache
