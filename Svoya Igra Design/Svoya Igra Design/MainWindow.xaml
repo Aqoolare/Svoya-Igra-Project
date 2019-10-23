@@ -13,6 +13,10 @@
             <Setter Property="Background" Value="#192233"/>
             <Setter Property="HeadersVisibility" Value="All"/>
         </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
         <Style TargetType="Button">
             <Setter Property="Background" Value="#FF192233"/>
             <Setter Property="Foreground" Value="White"/>
@@ -34,6 +38,7 @@
     </Window.Resources>
     <Grid>
         <Grid x:Name="questionsGrid" Margin="33,33,33,270">
+            <!--<TextBox HorizontalAlignment="Left" Height="58" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="130"/>-->
         </Grid>
         <!--<Border Margin="33,33,33,270" BorderThickness="1" BorderBrush="Black">
             <Grid Background="#192233" Name="hueta">
