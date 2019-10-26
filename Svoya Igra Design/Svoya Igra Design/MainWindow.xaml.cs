@@ -36,16 +36,16 @@ namespace Svoya_Igra_Design
         private void createTableButton_Click(object sender, RoutedEventArgs e)
         {
             ClearTable();
-            CreateColumn(130);
+            CreateColumn(124);
 
             for (int i = 0; i < questionThemeSlider.Value; i++)
             {
-                CreateRow(45);
+                CreateRow(50);
                 CreateTextBoxInTable(i);
 
                 for (int j = 1; j <= questionCostSlider.Value; j++)
                 {
-                    CreateColumn(100);
+                    CreateColumn(101);
                     CreateButtonInTable(i, j);
                 }
             }
@@ -98,7 +98,6 @@ namespace Svoya_Igra_Design
             else
                 questionContentTextBox.Text = string.Format("{0} (строка: {1}, столбец: {2})", cfg.Questions[row][column], row, column);
             questionContentTextBox.Focusable = true;
-            //MessageBox.Show(column + " " + row);
         }
 
         private void questionContentTextBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)
@@ -112,6 +111,14 @@ namespace Svoya_Igra_Design
                 cfg.Questions.Add(row,new string[6]);
             cfg.Questions[row][column] = questionContentTextBox.Text;
             MessageBox.Show(cfg.Questions[row][column]);
+        }
+
+        private void createGameButton_Click(object sender, RoutedEventArgs e)
+        {
+            for (int i = 0; i < 6; i++)
+            {
+                cfg.Themes[i] = textBoxes[i].Text;
+            }
         }
     }
 }
