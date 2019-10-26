@@ -35,37 +35,58 @@ namespace Svoya_Igra_Design
 
         private void createTableButton_Click(object sender, RoutedEventArgs e)
         {
-            questionsGrid.Children.Clear();
-            questionsGrid.ColumnDefinitions.Clear();
-            questionsGrid.RowDefinitions.Clear();
-
-            ColumnDefinition cd3 = new ColumnDefinition();
-            cd3.Width = new GridLength(130);
-            questionsGrid.ColumnDefinitions.Add(cd3);
+            ClearTable();
+            CreateColumn(130);
 
             for (int i = 0; i < questionThemeSlider.Value; i++)
             {
-                RowDefinition cd2 = new RowDefinition();
-                cd2.Height = new GridLength(45);
-                questionsGrid.RowDefinitions.Add(cd2);
-
-                textBoxes[i] = new TextBox { Text = "Название темы ;)" };
-                questionsGrid.Children.Add(textBoxes[i]);
-                Grid.SetRow(textBoxes[i], i);
-                Grid.SetColumn(textBoxes[i], 0);
+                CreateRow(45);
+                CreateTextBoxInTable(i);
 
                 for (int j = 1; j <= questionCostSlider.Value; j++)
                 {
-                    ColumnDefinition cd1 = new ColumnDefinition();
-                    cd1.Width = new GridLength(100);
-                    questionsGrid.ColumnDefinitions.Add(cd1);
-                    btns[i, j-1] = new Button { Content = j * 100 };
-                    questionsGrid.Children.Add(btns[i, j-1]);
-                    Grid.SetRow(btns[i, j-1], i);
-                    Grid.SetColumn(btns[i, j-1], j);
-                    btns[i, j-1].Click += cell_Click;
+                    CreateColumn(100);
+                    CreateButtonInTable(i, j);
                 }
             }
+        }
+
+        private void ClearTable()
+        {
+            questionsGrid.Children.Clear();
+            questionsGrid.ColumnDefinitions.Clear();
+            questionsGrid.RowDefinitions.Clear();
+        }
+
+        private void CreateColumn(int width)
+        {
+            ColumnDefinition cd = new ColumnDefinition();
+            cd.Width = new GridLength(width);
+            questionsGrid.ColumnDefinitions.Add(cd);
+        }
+
+        private void CreateRow(int height)
+        {
+            RowDefinition rd = new RowDefinition();
+            rd.Height = new GridLength(height);
+            questionsGrid.RowDefinitions.Add(rd);
+        }
+
+        private void CreateTextBoxInTable(int i)
+        {
+            textBoxes[i] = new TextBox { Text = "Название темы ;)" };
+            questionsGrid.Children.Add(textBoxes[i]);
+            Grid.SetRow(textBoxes[i], i);
+            Grid.SetColumn(textBoxes[i], 0);
+        }
+
+        private void CreateButtonInTable(int i, int j)
+        {
+            btns[i, j - 1] = new Button { Content = j * 100 };
+            questionsGrid.Children.Add(btns[i, j - 1]);
+            Grid.SetRow(btns[i, j - 1], i);
+            Grid.SetColumn(btns[i, j - 1], j);
+            btns[i, j - 1].Click += cell_Click;
         }
 
         void cell_Click(object sender, RoutedEventArgs e)
