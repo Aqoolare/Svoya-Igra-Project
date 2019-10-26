@@ -26,10 +26,14 @@ namespace Svoya_Igra_Design
             InitializeComponent();
         }
 
+        Config cfg = new Config();
+
         Button[,] btns = new Button[6, 6];
         TextBox[] textBoxes = new TextBox[6];
+        int column;
+        int row;
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void createTableButton_Click(object sender, RoutedEventArgs e)
         {
             questionsGrid.Children.Clear();
             questionsGrid.ColumnDefinitions.Clear();
@@ -59,17 +63,34 @@ namespace Svoya_Igra_Design
                     questionsGrid.Children.Add(btns[i, j-1]);
                     Grid.SetRow(btns[i, j-1], i);
                     Grid.SetColumn(btns[i, j-1], j);
-                    btns[i, j-1].Click += Button1_Click;
-                    //Андрей лох
+                    btns[i, j-1].Click += cell_Click;
                 }
             }
         }
 
-        void Button1_Click(object sender, RoutedEventArgs e)
+        void cell_Click(object sender, RoutedEventArgs e)
         {
-            int column = Grid.GetColumn(sender as Button) - 1;
-            int row = Grid.GetRow(sender as Button);
-            MessageBox.Show(column + " " + row);
+            column = Grid.GetColumn(sender as Button) - 1;
+            row = Grid.GetRow(sender as Button);
+            if (cfg.Questions[row][column] == null)
+                questionContentTextBox.Text = string.Format("Введите вопрос для ячейки ;) (строка: {0}, столбец: {1})", row, column);
+            else
+                questionContentTextBox.Text = string.Format("{0} (строка: {1}, столбец: {2})", cfg.Questions[row][column], row, column);
+            questionContentTextBox.Focusable = true;
+            //MessageBox.Show(column + " " + row);
+        }
+
+        private void questionContentTextBox_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            questionContentTextBox.Clear();
+        }
+
+        private void questionSaveButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (!cfg.Questions.ContainsKey(row))
+                cfg.Questions.Add(row,new string[6]);
+            cfg.Questions[row][column] = questionContentTextBox.Text;
+            MessageBox.Show(cfg.Questions[row][column]);
         }
     }
 }

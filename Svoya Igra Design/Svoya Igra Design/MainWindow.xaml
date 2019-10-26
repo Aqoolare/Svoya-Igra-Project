@@ -155,8 +155,10 @@
             <TextBlock Margin="7" Text="Ыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыы" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center"/>
         </Border>-->
         <!--<Border HorizontalAlignment="Left" Height="142" Margin="551,335,0,0" VerticalAlignment="Top" Width="208" Background="#3E4C66"/>-->
-        <Button Content="Создать таблицу" HorizontalAlignment="Left" Margin="27,348,0,0" VerticalAlignment="Top" Width="244" Height="51" Click="Button_Click"/>
+        <Button x:Name="createTableButton" Content="Создать таблицу" HorizontalAlignment="Left" Margin="27,348,0,0" VerticalAlignment="Top" Width="244" Height="51" Click="createTableButton_Click"/>
         <Slider x:Name="questionCostSlider" HorizontalAlignment="Left" Margin="27,404,0,0" VerticalAlignment="Top" Width="244" Maximum="6" Minimum="1" Value="1" TickFrequency="1" TickPlacement="BottomRight" Ticks="1,2,3,4,5,6" IsSnapToTickEnabled="True" Height="29" />
         <Slider x:Name="questionThemeSlider" HorizontalAlignment="Left" Margin="27,438,0,0" VerticalAlignment="Top" Width="244" Maximum="6" Minimum="1" Value="1" TickFrequency="1" TickPlacement="BottomRight" Ticks="1,2,3,4,5,6" IsSnapToTickEnabled="True" Height="29"/>
+        <TextBox x:Name="questionContentTextBox" HorizontalAlignment="Left" Height="85" Margin="521,348,0,0" Text="TextBox" VerticalAlignment="Top" Width="244" Focusable="False" MouseDoubleClick="questionContentTextBox_MouseDoubleClick"/>
+        <Button x:Name="questionSaveButton" Content="Сохранить вопрос" HorizontalAlignment="Left" Margin="521,438,0,0" VerticalAlignment="Top" Width="244" Height="29" Click="questionSaveButton_Click"/>
     </Grid>
 </Window>
