@@ -40,16 +40,19 @@
         </Style>
     </Window.Resources>
     <Grid>
-        <Grid x:Name="questionsGrid" Margin="27,30,27,226">
-        </Grid>
-        <Image Margin="525,421,27,0" Source="Своя_игра_2013.png" Height="121" VerticalAlignment="Top"/>
+        <Grid x:Name="questionsGrid" Margin="27,30,27,226"/>
+        <Image Margin="525,360,27,0" Source="Своя_игра_2013.png" Height="121" VerticalAlignment="Top"/>
         <Button x:Name="createTableButton" Content="Создать таблицу" HorizontalAlignment="Left" Margin="27,360,0,0" Width="244" Click="createTableButton_Click" Height="56" VerticalAlignment="Top"/>
         <Slider x:Name="questionCostSlider" HorizontalAlignment="Left" Margin="27,450,0,0" VerticalAlignment="Top" Width="244" Maximum="6" Minimum="1" Value="1" TickFrequency="1" TickPlacement="BottomRight" Ticks="1,2,3,4,5,6" IsSnapToTickEnabled="True" Height="29" />
         <Slider x:Name="questionThemeSlider" HorizontalAlignment="Left" Margin="27,513,0,0" Width="244" Maximum="6" Minimum="1" Value="1" TickFrequency="1" TickPlacement="BottomRight" Ticks="1,2,3,4,5,6" IsSnapToTickEnabled="True" Height="29" VerticalAlignment="Top"/>
-        <TextBox x:Name="questionContentTextBox" Margin="276,360,0,0" Text="TextBox" Focusable="False" MouseDoubleClick="questionContentTextBox_MouseDoubleClick" Height="143" VerticalAlignment="Top" HorizontalAlignment="Left" Width="244"/>
+        <TextBox x:Name="questionContentTextBox" Margin="276,360,0,0" Text="TextBox" Focusable="False" MouseDoubleClick="questionContentTextBox_MouseDoubleClick" Height="90" VerticalAlignment="Top" HorizontalAlignment="Left" Width="244"/>
         <Button x:Name="questionSaveButton" Content="Сохранить вопрос" Margin="276,508,0,23" Click="questionSaveButton_Click" HorizontalAlignment="Left" Width="244"/>
         <Label Content="Столбцы:" HorizontalAlignment="Left" Margin="27,416,0,0" VerticalAlignment="Top"/>
         <Label Content="Строки:" HorizontalAlignment="Left" Margin="27,479,0,0" VerticalAlignment="Top"/>
-        <Button Content="Создать игру" Margin="525,360,27,0" Height="56" VerticalAlignment="Top" Click="createGameButton_Click"/>
+        <Button Content="Создать игру" Margin="525,0,27,23" Click="createGameButton_Click" Height="56" VerticalAlignment="Bottom"/>
+        <RadioButton x:Name="freeQuestion" GroupName="typesOfQuestions" Content="Свободный ответ" HorizontalAlignment="Left" Margin="399,464,0,0" VerticalAlignment="Top" Foreground="White" Checked="freeQuestion_Checked"/>
+        <RadioButton x:Name="readyAnswersQuestion" GroupName="typesOfQuestions" Content="Ответ с выбором" HorizontalAlignment="Left" Margin="399,484,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="Тип вопроса:" HorizontalAlignment="Left" Margin="276,464,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.115,-0.088"/>
+        <TextBox x:Name="textBoxForRightAnswer" HorizontalAlignment="Left" Height="121" Margin="525,360,0,0" Text="Введите правильный ответ" VerticalAlignment="Top" Width="240" Visibility="Hidden" MouseDoubleClick="textBoxForRightAnswer_MouseDoubleClick"/>
     </Grid>
 </Window>

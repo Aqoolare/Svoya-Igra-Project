@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Config.cs" />
     <Compile Include="IAnswer.cs" />
+    <Compile Include="IConfig.cs" />
     <Compile Include="IPlayer.cs" />
     <Compile Include="IQuestion.cs" />
     <Compile Include="ITheme.cs" />

@@ -93,7 +93,7 @@ namespace Svoya_Igra_Design
         {
             column = Grid.GetColumn(sender as Button) - 1;
             row = Grid.GetRow(sender as Button);
-            if (cfg.Questions[row][column] == null)
+            if (cfg.Questions[row][column].Content == null)
                 questionContentTextBox.Text = string.Format("Введите вопрос для ячейки ;) (строка: {0}, столбец: {1})", row, column);
             else
                 questionContentTextBox.Text = string.Format("{0} (строка: {1}, столбец: {2})", cfg.Questions[row][column], row, column);
@@ -107,10 +107,13 @@ namespace Svoya_Igra_Design
 
         private void questionSaveButton_Click(object sender, RoutedEventArgs e)
         {
-            if (!cfg.Questions.ContainsKey(row))
-                cfg.Questions.Add(row,new string[6]);
-            cfg.Questions[row][column] = questionContentTextBox.Text;
-            MessageBox.Show(cfg.Questions[row][column]);
+            cfg.Questions[row][column].Content = questionContentTextBox.Text;
+            if (freeQuestion.IsChecked == true)
+            {
+                cfg.Questions[row][column].QType = QuestionType.FreeAnswer;
+                cfg.Questions[row][column].SingleAnswer = textBoxForRightAnswer.Text;
+            }
+            MessageBox.Show(string.Format("{0} {1}", cfg.Questions[row][column].Content, cfg.Questions[row][column].SingleAnswer));
         }
 
         private void createGameButton_Click(object sender, RoutedEventArgs e)
@@ -119,6 +122,16 @@ namespace Svoya_Igra_Design
             {
                 cfg.Themes[i] = textBoxes[i].Text;
             }
+        }
+
+        private void freeQuestion_Checked(object sender, RoutedEventArgs e)
+        {
+            textBoxForRightAnswer.Visibility = Visibility.Visible;
+        }
+
+        private void textBoxForRightAnswer_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            textBoxForRightAnswer.Clear();
         }
     }
 }

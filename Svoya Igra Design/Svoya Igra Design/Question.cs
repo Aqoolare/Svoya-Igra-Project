@@ -14,11 +14,7 @@ namespace Svoya_Igra_Design
         public QuestionType QType { get; set; }
         public int Cost { get; set; }
         public List<IAnswer> AnswerList { get; set; }
-        
-        public Question(string content)
-        {
-            Content = content;
-        }
+        public string SingleAnswer { get; set; }
 
         public IAnswer GetAnswer()
         {

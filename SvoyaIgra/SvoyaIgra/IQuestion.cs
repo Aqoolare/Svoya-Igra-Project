@@ -11,6 +11,7 @@ namespace SvoyaIgra
         string Theme { get; set; }
         QuestionType QType { get; set; }
         int Cost { get; set; }
+        string SingleAnswer { get; set; }
         List<IAnswer> AnswerList { get; set; }
         IAnswer GetAnswer();
     }
