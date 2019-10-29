@@ -13,19 +13,19 @@ namespace Svoya_Igra_Design
         public Dictionary<int, IQuestion[]> Questions { get; set; }
         public string[] Themes { get; set; }
 
-        public Config()
+        public Config(int NumberOfThemes, int NumberOfQuestions)
         {
             Players = new List<IPlayer>();
             Questions = new Dictionary<int, IQuestion[]>();
-            for (int i = 0; i < 6; i++)
+            for (int i = 0; i < NumberOfThemes; i++)
             {
-                Questions.Add(i, new Question[6]);
-                for (int j = 0; j < 6; j++)
+                Questions.Add(i, new Question[NumberOfQuestions]);
+                for (int j = 0; j < NumberOfQuestions; j++)
                 {
                     Questions[i][j] = new Question();
                 }
             }
-            Themes = new string[6];
+            Themes = new string[NumberOfThemes];
         }
     }
 }

@@ -26,10 +26,10 @@ namespace Svoya_Igra_Design
             InitializeComponent();
         }
 
-        Config cfg = new Config();
+        Config cfg;
 
-        Button[,] btns = new Button[6, 6];
-        TextBox[] textBoxes = new TextBox[6];
+        Button[,] btns;
+        TextBox[] textBoxes;
         int column;
         int row;
 
@@ -37,6 +37,10 @@ namespace Svoya_Igra_Design
         {
             ClearTable();
             CreateColumn(124);
+
+            cfg = new Config((int)questionThemeSlider.Value, (int)questionCostSlider.Value);
+            btns = new Button[(int)questionThemeSlider.Value, (int)questionCostSlider.Value];
+            textBoxes = new TextBox[(int)questionThemeSlider.Value];
 
             for (int i = 0; i < questionThemeSlider.Value; i++)
             {

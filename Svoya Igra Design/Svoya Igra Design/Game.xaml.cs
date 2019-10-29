@@ -34,7 +34,7 @@ namespace Svoya_Igra_Design
             NumberOfThemes = _configuration.Themes.Length;
             NumberOfQuestions = _configuration.Questions[1].Length;
 
-            btns = new Button[NumberOfQuestions, NumberOfQuestions];
+            btns = new Button[NumberOfThemes, NumberOfQuestions];
             textBoxes = new TextBox[NumberOfThemes];
 
             StartGame();
