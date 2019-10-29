@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Svoya_Igra_Design
 {
-    class Question : IQuestion
+    public class Question : IQuestion
     {
         public string Content { get; set; }
         public string Theme { get; set; }
