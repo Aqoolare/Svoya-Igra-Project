@@ -8,8 +8,7 @@ namespace SvoyaIgra
 {
     public interface IConfig
     {
-        List<IPlayer> Players { get; set; }
-        Dictionary<int, IQuestion[]> Questions { get; set; }
+        //Dictionary<int, IQuestion[]> Questions { get; set; }
         string[] Themes { get; set; }
     }
 }
