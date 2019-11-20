@@ -1,5 +1,5 @@
 ﻿using System;
-using SvoyaIgra;
+using System.Runtime.Serialization;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,16 +7,17 @@ using System.Threading.Tasks;
 
 namespace Svoya_Igra_Design
 {
-    public class Config : IConfig
+    [Serializable]
+    public class Config
     {
-        public List<IPlayer> Players { get; set; }
-        public Dictionary<int, IQuestion[]> Questions { get; set; }
+        public Dictionary<int, Question[]> Questions { get; set; }
         public string[] Themes { get; set; }
+
+        public Config() { }
 
         public Config(int NumberOfThemes, int NumberOfQuestions)
         {
-            Players = new List<IPlayer>();
-            Questions = new Dictionary<int, IQuestion[]>();
+            Questions = new Dictionary<int, Question[]>();
             for (int i = 0; i < NumberOfThemes; i++)
             {
                 Questions.Add(i, new Question[NumberOfQuestions]);

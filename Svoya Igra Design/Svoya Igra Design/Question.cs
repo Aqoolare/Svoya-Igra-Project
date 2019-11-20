@@ -1,5 +1,4 @@
 ﻿using System;
-using SvoyaIgra;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,18 +6,15 @@ using System.Threading.Tasks;
 
 namespace Svoya_Igra_Design
 {
-    public class Question : IQuestion
+    [Serializable]
+    public class Question
     {
         public string Content { get; set; }
-        public string Theme { get; set; }
-        public QuestionType QType { get; set; }
-        public int Cost { get; set; }
-        public List<IAnswer> AnswerList { get; set; }
-        public string SingleAnswer { get; set; }
-
-        public IAnswer GetAnswer()
+        public string Answer { get; set; }
+        public bool Checked { get; set; }
+        public Question() 
         {
-            throw new NotImplementedException();
+            Checked = false;
         }
     }
 }

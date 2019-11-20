@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\
 Svoya_Igra_Design
 none
 false
 DEBUG;TRACE
-C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\App.xaml
-3-1870005538
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\App.xaml
+9-147874382
 
-10506732156
-14-604740722
-Game.xaml;MainWindow.xaml;QuestionWindow.xaml;
+21-1999927512
+151324095129
+CreateNewPlayersWindow.xaml;EndGameWindow.xaml;FileNameForm.xaml;CreateGameWindow.xaml;GameWindow.xaml;Menu.xaml;PreCreateGameWindow.xaml;QuestionWindow.xaml;RecordsWindow.xaml;
 
-True
+False
 
