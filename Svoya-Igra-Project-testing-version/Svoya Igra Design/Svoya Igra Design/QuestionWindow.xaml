@@ -1,0 +1,20 @@
+﻿<Window x:Class="Svoya_Igra_Design.QuestionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Svoya_Igra_Design"
+        mc:Ignorable="d"
+        Title="Вопрос" Height="500" Width="800" ResizeMode="NoResize"
+        Closing="Window_Closing">
+
+    <Grid>
+        <TextBox x:Name="QuestionTextBox" IsReadOnly="True" FontSize = "40" Height="264" Canvas.Left="10" Canvas.Top="10" Width="764" Margin="10,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="AnswerTextBox" Height="77" Canvas.Left="262" TextWrapping="Wrap" Canvas.Top="295" Width="266" Margin="264,298,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Button x:Name="GiveAnswerButton" Content="Ответ дан" Canvas.Left="262" Canvas.Top="391" Click="WriteAnswerButton_Click" Margin="264,404,264,17"/>
+        <Button x:Name="WrongAnswerButton" Content="Ответ не верный" Canvas.Left="28" Canvas.Top="295" Width="200" Height="77" Click="WrongAnswerButton_Click" Margin="29,298,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Button x:Name="RightAnswerButton" Content="Ответ верный" Canvas.Left="570" Canvas.Top="295" Click="RightAnswerButton_Click" Margin="566,298,0,0" HorizontalAlignment="Left" Width="177" Height="77" VerticalAlignment="Top"/>
+        <TextBox x:Name="TimeTB" Height="35" Canvas.Left="10" TextWrapping="Wrap" Canvas.Top="416" Width="44" Margin="10,419,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button x:Name="OKButton" Content="OK" Canvas.Left="570" Canvas.Top="391" Click="OKButton_Click" Margin="596,404,0,0" HorizontalAlignment="Left" Width="178" Height="50" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

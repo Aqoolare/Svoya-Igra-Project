@@ -1,0 +1,13 @@
+﻿<Window x:Class="Svoya_Igra_Design.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Svoya_Igra_Design"
+        mc:Ignorable="d"
+        Title="Своя игра" Height="985.715" Width="1314.285" Background="#FF10192A" ResizeMode="NoResize">
+    <Grid>
+        <Grid x:Name="GameGrid" Margin="27,30,27,128"/>
+        <TextBox x:Name="TextBoxMove" Margin="27,834,0,35" TextWrapping="Wrap" HorizontalAlignment="Left" Width="388"/>
+    </Grid>
+</Window>

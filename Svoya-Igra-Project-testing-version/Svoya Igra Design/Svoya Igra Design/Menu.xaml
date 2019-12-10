@@ -1,0 +1,18 @@
+﻿<Window x:Class="Svoya_Igra_Design.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Svoya_Igra_Design"
+        mc:Ignorable="d"
+        Title="Меню" Height="524.126" Width="300" Background="#FF10192A" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="CreateGameButton" Content="Создать игру" Margin="10,310,10,114" FontSize="24" Click="CreateGameButton_Click"/>
+        <Image Source="Resources/logo.png" Margin="10,-27,10,304"/>
+        <Button x:Name="StartGameButton" Content="Начать игру" Margin="10,234,10,190" FontSize="24" Click="StartGameButton_Click"/>
+        <Button x:Name="RecordsButton" Content="Список лидеров" Margin="10,386,10,38" FontSize="24" Click="RecordsButton_Click"/>
+        <Button x:Name="ContinueGameButton" Content="Продолжить игру" Margin="10,158,10,266" FontSize="24" Click="ContinueGameButton_Click"/>
+        <ComboBox x:Name="themeCBox" Background="Black" Margin="10,0,10,10" Height="22" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</Window>

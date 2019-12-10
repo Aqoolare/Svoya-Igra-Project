@@ -1,0 +1,198 @@
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe.config
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.pdb
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\MainWindow.g.cs
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.g.cs
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.cache
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.lref
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\MainWindow.baml
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.g.resources
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya_Igra_Design.Properties.Resources.resources
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.GenerateResource.cache
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.exe
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.pdb
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csprojAssemblyReference.cache
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.exe
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.pdb
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.exe.config
+C:\Users\koska\source\repos\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.CopyComplete
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe.config
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.pdb
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.cache
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.lref
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.g.resources
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya_Igra_Design.Properties.Resources.resources
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.GenerateResource.cache
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.exe
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.pdb
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csprojAssemblyReference.cache
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Game.g.cs
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\MainWindow.g.cs
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.g.cs
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.cache
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.lref
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.exe
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.pdb
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe.config
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.pdb
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.exe
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.pdb
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\SvoyaIgra.exe.config
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Game.baml
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\MainWindow.baml
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.g.resources
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya_Igra_Design.Properties.Resources.resources
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.GenerateResource.cache
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.CopyComplete
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.g.cs
+C:\Users\Medved\Desktop\Портфель\Проект\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\FileNameForm.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\FileNameForm.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Menu.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Menu.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateGameWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateGameWindow.baml
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe.config
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.pdb
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\FileNameForm.g.cs
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateGameWindow.g.cs
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Menu.g.cs
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.g.cs
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.g.cs
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.cache
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.lref
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\FileNameForm.baml
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateGameWindow.baml
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Menu.baml
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.baml
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.g.resources
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya_Igra_Design.Properties.Resources.resources
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.GenerateResource.cache
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.exe
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.pdb
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\EndGameWindow.g.cs
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\GameWindow.g.cs
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\EndGameWindow.baml
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\GameWindow.baml
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateNewPlayersWindow.g.cs
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateNewPlayersWindow.baml
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csprojAssemblyReference.cache
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\RecordsWindow.g.cs
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\RecordsWindow.baml
+C:\Users\Medved\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateNewPlayersWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\EndGameWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\GameWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\RecordsWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateNewPlayersWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\EndGameWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\GameWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\RecordsWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\PreCreateGameWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\PreCreateGameWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csprojAssemblyReference.cache
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe.config
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.pdb
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateNewPlayersWindow.g.cs
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\EndGameWindow.g.cs
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\FileNameForm.g.cs
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateGameWindow.g.cs
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\GameWindow.g.cs
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Menu.g.cs
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\PreCreateGameWindow.g.cs
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.g.cs
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\RecordsWindow.g.cs
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.g.cs
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.cache
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.lref
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.baml
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateNewPlayersWindow.baml
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\EndGameWindow.baml
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\FileNameForm.baml
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateGameWindow.baml
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\GameWindow.baml
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Menu.baml
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\PreCreateGameWindow.baml
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.baml
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\RecordsWindow.baml
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.g.resources
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya_Igra_Design.Properties.Resources.resources
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.GenerateResource.cache
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.CoreCompileInputs.cache
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.exe
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.pdb
+H:\LatestVersion\Svoya-Igra-Project\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csprojAssemblyReference.cache
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe.config
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.pdb
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateNewPlayersWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\EndGameWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\FileNameForm.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateGameWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\GameWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Menu.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\PreCreateGameWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\RecordsWindow.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.g.cs
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.cache
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.lref
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateNewPlayersWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\EndGameWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\FileNameForm.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateGameWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\GameWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Menu.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\PreCreateGameWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\RecordsWindow.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.g.resources
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya_Igra_Design.Properties.Resources.resources
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.GenerateResource.cache
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.exe
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.pdb
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe.config
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.exe
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\bin\Debug\Svoya Igra Design.pdb
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateNewPlayersWindow.g.cs
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\EndGameWindow.g.cs
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\FileNameForm.g.cs
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateGameWindow.g.cs
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\GameWindow.g.cs
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Menu.g.cs
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\PreCreateGameWindow.g.cs
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.g.cs
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\RecordsWindow.g.cs
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.g.cs
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.cache
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design_MarkupCompile.lref
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\App.baml
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateNewPlayersWindow.baml
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\EndGameWindow.baml
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\FileNameForm.baml
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\CreateGameWindow.baml
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\GameWindow.baml
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Menu.baml
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\PreCreateGameWindow.baml
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\QuestionWindow.baml
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\RecordsWindow.baml
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.g.resources
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya_Igra_Design.Properties.Resources.resources
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.GenerateResource.cache
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csproj.CoreCompileInputs.cache
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.exe
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.pdb
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\DarkTheme.baml
+H:\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\LightTheme.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\DarkTheme.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\LightTheme.baml
+C:\Users\koska\Desktop\Svoya-Igra-Project-testing-version\Svoya Igra Design\Svoya Igra Design\obj\Debug\Svoya Igra Design.csprojAssemblyReference.cache
